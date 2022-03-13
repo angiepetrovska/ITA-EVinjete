@@ -13,3 +13,6 @@ Zahtevane podatke:
 ## Funkcinalne in nefunkcionalne zahteve
 Funkcionalne | Nefunkcionalne
 ------------ | -------------
+Preverjanje registrerske številke | Preverjanje se izvede v 60s
+Priprava sporočila | Priprava sporočila za opomin neobstajanje/neveljavnost registerske številke v 60s
+Pošiljanje sporočila | Sporočila se pošljejo v 60s
