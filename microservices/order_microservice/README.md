@@ -4,8 +4,6 @@
 Uporabnik bo lahko naročil e-vinjeto za svoje vozilo. 
 
 Zahtevane podatke:
-- ime
-- priimek
 - e-mail
 - registerska številka vozila
 - datum začetka veljavnosti vinjete
