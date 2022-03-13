@@ -12,4 +12,4 @@
  2 | Dvosledna motorna in bivalna vozila | Letna, mesečna, tedenska
  3 | Dvosledna vozila z višino nad prvo osjo 1,3 metra ali več | Letna, mesečna, tedenska
 
-[link](https://evinjeta.dars.si/)
+[Uporabljen vir](https://evinjeta.dars.si/)
