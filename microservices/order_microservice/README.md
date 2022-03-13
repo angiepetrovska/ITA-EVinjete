@@ -16,4 +16,6 @@ Po uspešnem vnosu podatkov, se podatki zapišejo v MongoDB.
 ## Funkcinalne in nefunkcionalne zahteve
 Funkcionalne | Nefunkcionalne
 ------------ | -------------
-
+Vpisovanje podatkov | Validacija podatkov v majn kot 10s
+Izbira tipa e-vinjete | Izbira e-vinjete glede na cestninski razred in trajanje vinjete
+Status izvedbe naročila | Naročilo se izvede v majn kot 30s
