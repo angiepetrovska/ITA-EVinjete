@@ -13,6 +13,9 @@ Zahtevane podatke:
 Po uspešnem vnosu podatkov, se podatki zapišejo v MongoDB.
 
 ## DDD digram
+![DDD_Order](https://user-images.githubusercontent.com/44358450/158067578-e197df3f-8a15-4e9e-b432-c8f391eb6264.png)
 
 ## Funkcinalne in nefunkcionalne zahteve
+Funkcionalne | Nefunkcionalne
+------------ | -------------
 
