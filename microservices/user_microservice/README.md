@@ -14,3 +14,7 @@ Po uspešnem vnosu podatkov, se podatki zapišejo v MongoDB.
 ## Funkcinalne in nefunkcionalne zahteve
 Funkcionalne | Nefunkcionalne
 ------------ | -------------
+Obdelava zahteva za prijavo | Da se pripravi povratni email v 30s
+Seja uporanika | Seja poteče v 1uri
+Preverjanje kupljenih vinjet | V primeru, da uporabnik ima že kupljeno vinjeto se izpiše opozorilo
+
